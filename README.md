@@ -1,4 +1,4 @@
-### Hello World! 
+### Hello World! 👋 :wave:
 
 - 🔭 I’m currently working on ... data analysis 
 - 🌱 I’m currently learning ... PowerBI 
