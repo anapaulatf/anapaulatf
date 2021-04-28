@@ -1,7 +1,7 @@
 ### Hello World! 👋 
 
 - 🔭 I’m currently working on ... data analysis 
-- 🌱 I’m currently learning ... PowerBI 
+- 🌱 I’m currently learning ... how to create a Web API
 - 👯 I’m looking to collaborate on ... Python projects!
 - 🤔 I’m looking for help with ... finding a new job 
 - 💬 Ask me about ... digital art
